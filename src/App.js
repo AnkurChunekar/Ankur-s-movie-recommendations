@@ -64,7 +64,7 @@ const database = {
   Animated: [
     {
       image:
-        "https://lh3.googleusercontent.com/proxy/fsMldgW75JdwLePg8tBKA_6NuNjc0tbI6yvDo85mANmeI7EeUK54Y9cumvUQMx6m3VyNvNQBfYFVzMeR83xizIYOom3EP55ieKg8CXrQlga9q8JyRHYcM3Tl83vvfrKEg5z7CnU",
+        "https://c8.alamy.com/comp/2CGWM52/movie-poster-spider-man-into-the-spider-verse-2018-2CGWM52.jpg",
       name: "Spider-Man: Into the Spider-Verse",
       rating: "IMDb: 8.4/10"
     },
