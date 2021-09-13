@@ -10,6 +10,11 @@ const database = {
       rating: "IMDb : 8.2/10"
     },
     {
+      image: "https://c8.alamy.com/comp/PMB81Y/chef-2014-poster-PMB81Y.jpg",
+      name: "Chef",
+      rating: "IMDb : 7.3/10"
+    },
+    {
       image:
         "https://upload.wikimedia.org/wikipedia/hi/9/9e/Dear_Zindagi_poster.jpg",
       name: "Dear Zindagi",
@@ -24,6 +29,11 @@ const database = {
       rating: "IMDb: 7.6/10"
     },
     {
+      image: "https://c8.alamy.com/comp/WNGGTN/parasite-gisaengchung-year-2019-south-korea-director-joon-ho-bong-poster-fr-WNGGTN.jpg",
+      name: "Parasite",
+      rating: "IMDb : 8.6/10"
+    },
+    {
       image: "https://www.imago-images.de/bild/st/0097824078/w.jpg",
       name: "Badla",
       rating: "IMDb: 7.8/10"
@@ -36,6 +46,12 @@ const database = {
         "https://c8.alamy.com/comp/REWD6J/kevin-de-paula-poster-pele-birth-of-a-legend-2016-REWD6J.jpg",
       name: "Pele: Birth of a Legend",
       rating: "7.2/10"
+    },
+
+    {
+      image: "https://upload.wikimedia.org/wikipedia/en/c/c8/MaryKomPoster.jpg",
+      name: "Mary Kom",
+      rating: "IMDb : 6.8/10"
     },
 
     {
@@ -58,8 +74,17 @@ const database = {
         "https://c8.alamy.com/comp/PMC0T7/avengers-infinity-war-2018-marvel-studios-poster-PMC0T7.jpg",
       name: "Avengers: Infinity War",
       rating: "IMDb: 8.4/10"
-    }
+    },
+
+    {
+      image: "https://c8.alamy.com/comp/E7PYXN/the-amazing-spider-man-2-year-2014-usa-director-marc-webb-andrew-garfield-E7PYXN.jpg",
+      name: "Amazing Spiderman 2",
+      rating: "IMDb : 6.6/10"
+    },
+
   ],
+
+  
 
   Animated: [
     {
@@ -73,7 +98,13 @@ const database = {
         "https://c8.alamy.com/comp/2AC1GA2/klaus-2019-directed-by-sergio-pablos-credit-atresmedia-cine-album-2AC1GA2.jpg",
       name: "Klaus",
       rating: "IMDb: 8.2/10"
-    }
+    },
+    {
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpA9k24fda6setMWj3GZcfAJzRW8AwFSWCtg&usqp=CAU",
+      name: "Kung Fu Panda",
+      rating: "IMDb : 7.6/10"
+    },
+
   ]
 };
 
