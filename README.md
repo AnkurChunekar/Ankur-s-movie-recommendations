@@ -1,10 +1,11 @@
-# Ankur-s-movie-recommendations
-Created with CodeSandbox
-Project: Neog camp level zero project no.1
 
-Name: Ankur-s-movie-recommendations
-
-Details: I am learning to code from Tanay Pratap sir's youtube channel and i have learned to make a basic CLI app i made with the help of repl.it.
-This is a simple website which lists some of my favorite movies. it is made with the help of Codesandbox. Languages used are HTML, CSS, and JavaScript. Do visit it and feedback is always appriciated.
+# Movie Recommendation App
+This a movie recommendation app created with the help of codesandbox. It recommends my favorite movies with respect to the selected genre.
 
 
+# Tech Stack used
+* HTML5
+* CSS3
+* React js
+
+Here's is link the [Project](https://moviesuggestion.netlify.app/).
